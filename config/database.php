@@ -19,7 +19,7 @@ return [
     // 用户名
     'username'        => 'root',
     // 密码
-    'password'        => 'admin168',
+    'password'        => 'admin888',
     // 端口
     'hostport'        => '3306',
     // 连接dsn
@@ -27,7 +27,7 @@ return [
     // 数据库连接参数
     'params'          => [],
     // 数据库编码默认采用utf8
-    'charset'         => 'utf8',
+    'charset'         => 'utf8mb3',
     // 数据库表前缀
     'prefix'          => 'sh_',
     // 数据库调试模式
